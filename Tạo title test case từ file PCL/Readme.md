@@ -8,7 +8,7 @@
 
 **B1: Thêm dấu trừ (-) để xác định tiêu đề ở trường hợp cuối cùng**
 |                           |Check 1    |Check 2    |Check 3    |
-|:--------------------------|:---------:|:---------:|:---------:|
+|---------------------------|:---------:|:---------:|:---------:|
 |Tiêu đề 1:                 |           |           |-          |
 |   Input 1                 |x          |           |           |
 |   Input 2                 |           |x          |x          |
@@ -17,6 +17,7 @@
 |   Input 4                 |x          |           |x          |
 
 **B2: Lưu tất cả thông tin tiêu đề và input vào một đối tượng kiểu tree**
+```
 |
 |- Tiêu đề 1
 |   |- Input 1     [x, , ]
@@ -26,4 +27,5 @@
     |- Input 3     [ ,x, ]
     |- Input 4     [x, ,x]
 
+```
 **B3: Duyệt cây, nếu input nào mà có được đánh dấu x thì in ra kèm theo các tiêu đề phía trước đó**
