@@ -7,13 +7,14 @@
 # Thực hiện
 
 **B1: Thêm dấu trừ (-) để xác định tiêu đề ở trường hợp cuối cùng**
-|                           |Check 1    |Check 2    |Check 3
-|Tiêu đề 1:                 |           |           |-
-|   Input 1                 |x          |           |
-|   Input 2                 |           |x          |x
-|Tiêu đề 2:                 |           |           |-
-|   Input 3                 |           |x          |
-|   Input 4                 |x          |           |x
+|                           |Check 1    |Check 2    |Check 3    |
+|:--------------------------|:---------:|:---------:|:---------:|
+|Tiêu đề 1:                 |           |           |-          |
+|   Input 1                 |x          |           |           |
+|   Input 2                 |           |x          |x          |
+|Tiêu đề 2:                 |           |           |-          |
+|   Input 3                 |           |x          |           |
+|   Input 4                 |x          |           |x          |
 
 **B2: Lưu tất cả thông tin tiêu đề và input vào một đối tượng kiểu tree**
 |
