@@ -1,1 +1,1 @@
-Mình muốn log lại một số vấn đề đã từng gặp phải
+Một số bài toán đã gặp
