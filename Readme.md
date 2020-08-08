@@ -1,1 +1,1 @@
-Một số bài toán đã gặp
+Một số vấn đề và cách hướng giải quyết
