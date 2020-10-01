@@ -1,5 +1,5 @@
-# Vấn đề
-*File PCL để tạo evident cho hoạt động test*
+# Hiện tại
+*Tạo file PCL để chụp evident cho hoạt động test*
 *Vì có rất nhiều test case, lên việc copy bằng tay sẽ tốn nhiều thời gian*
 
 # Mong muốn
